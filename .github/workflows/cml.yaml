@@ -1,4 +1,5 @@
 name: mlops-exaple-tensorflow-regression
+permissions: read-all|write-all
 on: [push]
 jobs:
   run:
